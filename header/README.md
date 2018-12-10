@@ -1,6 +1,6 @@
 # Navigation bars
 
-## navigation-bar-1.md
+## [navigation-bar-1.md](navigation-bar-1.md)
 
 ----
 
@@ -18,6 +18,6 @@
 
 ----
 
-## date-top-right.md
+## [date-top-right.md](date-top-right.md)
 
 <p align="right">01/01/2000</p>
