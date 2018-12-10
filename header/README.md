@@ -1,6 +1,6 @@
 # Navigation bars
 
-## 1.md
+## navigation-bar-1.md
 
 ----
 
