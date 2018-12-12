@@ -50,6 +50,12 @@
 <sup>[2]: Hello Internet</sup>  
 
 
+# [03-inline-html/keyboard.md](03-inline-html/keyboard.md)
+
+<kbd>Strg+X</kbd>  
+<kbd>Strg</kbd> + <kbd>X</kbd>  
+<kbd>Or any other text</kbd>
+
 # [03-inline-html/superscript.md](03-inline-html/superscript.md)
 
 This is a text with <sup>SuperScript</sup>  
