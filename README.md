@@ -21,48 +21,12 @@ Feel free to add your own templates via [pull request](https://github.com/markdo
 ----
 
 
-# [01-header-badges-license/Apache_2.0.md](01-header-badges-license/Apache_2.0.md)
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-# [01-header-badges-license/Attribution_License_(BY).md](01-header-badges-license/Attribution_License_(BY).md)
-
-[![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
-
-# [01-header-badges-license/BSD_2-clause_license.md](01-header-badges-license/BSD_2-clause_license.md)
-
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
-
-# [01-header-badges-license/BSD_3-clause_license.md](01-header-badges-license/BSD_3-clause_license.md)
-
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
-# [01-header-badges-license/GNU_GPL_v2.md](01-header-badges-license/GNU_GPL_v2.md)
-
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-
-# [01-header-badges-license/GNU_GPL_v3.md](01-header-badges-license/GNU_GPL_v3.md)
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-# [01-header-badges-license/MIT.md](01-header-badges-license/MIT.md)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-# [01-header-badges-license/Mozilla_Public_License_2.0.md](01-header-badges-license/Mozilla_Public_License_2.0.md)
-
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-
-# [01-header-badges-license/The_Unlicense.md](01-header-badges-license/The_Unlicense.md)
-
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-
-# [01-header/date-top-right.md](01-header/date-top-right.md)
+# [01.00-header/date-top-right.md](01.00-header/date-top-right.md)
 
 <p align="right">01/01/2000</p>
 
 
-# [01-header/navigation-bar-1.md](01-header/navigation-bar-1.md)
+# [01.00-header/navigation-bar-1.md](01.00-header/navigation-bar-1.md)
 
 ----
 
@@ -81,7 +45,43 @@ Feel free to add your own templates via [pull request](https://github.com/markdo
 ----
 
 
-# [02-footer/footnotes.md](02-footer/footnotes.md)
+# [01.01-header-badges-license/Apache_2.0.md](01.01-header-badges-license/Apache_2.0.md)
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# [01.01-header-badges-license/Attribution_License_(BY).md](01.01-header-badges-license/Attribution_License_(BY).md)
+
+[![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+
+# [01.01-header-badges-license/BSD_2-clause_license.md](01.01-header-badges-license/BSD_2-clause_license.md)
+
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
+# [01.01-header-badges-license/BSD_3-clause_license.md](01.01-header-badges-license/BSD_3-clause_license.md)
+
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
+# [01.01-header-badges-license/GNU_GPL_v2.md](01.01-header-badges-license/GNU_GPL_v2.md)
+
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+# [01.01-header-badges-license/GNU_GPL_v3.md](01.01-header-badges-license/GNU_GPL_v3.md)
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+# [01.01-header-badges-license/MIT.md](01.01-header-badges-license/MIT.md)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# [01.01-header-badges-license/Mozilla_Public_License_2.0.md](01.01-header-badges-license/Mozilla_Public_License_2.0.md)
+
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+# [01.01-header-badges-license/The_Unlicense.md](01.01-header-badges-license/The_Unlicense.md)
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+# [02.00-footer/footnotes.md](02.00-footer/footnotes.md)
 
 ----
 
