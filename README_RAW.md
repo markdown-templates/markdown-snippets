@@ -20,3 +20,5 @@
 ## :two_hearts: Contribute
 
 Feel free to add your own templates via [pull request](https://github.com/markdown-templates/markdown-snippets/pulls) :+1: <3
+
+> Press the arrows below to expand the preview section
