@@ -45,7 +45,16 @@
 # [02-footer/footnotes.md](02-footer/footnotes.md)
 
 ----
+
 <sup>[1]: Hello World</sup>  
 <sup>[2]: Hello Internet</sup>  
 
+
+# [03-inline-html/superscript.md](03-inline-html/superscript.md)
+
+This is a text with <sup>SuperScript</sup>  
+You can use it for footnotes<sup>1</sup>
+
+----
+<sup>[1]: See [footnotes](../02-footer/footnotes)</sup>  
 
