@@ -25,6 +25,10 @@ Feel free to add your own templates via [pull request](https://github.com/markdo
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+# [01-header-badges-license/Attribution_License_(BY).md](01-header-badges-license/Attribution_License_(BY).md)
+
+[![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
+
 # [01-header-badges-license/BSD_2-clause_license.md](01-header-badges-license/BSD_2-clause_license.md)
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
@@ -48,6 +52,10 @@ Feel free to add your own templates via [pull request](https://github.com/markdo
 # [01-header-badges-license/Mozilla_Public_License_2.0.md](01-header-badges-license/Mozilla_Public_License_2.0.md)
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+# [01-header-badges-license/The_Unlicense.md](01-header-badges-license/The_Unlicense.md)
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 # [01-header/date-top-right.md](01-header/date-top-right.md)
 
