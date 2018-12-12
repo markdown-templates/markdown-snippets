@@ -21,6 +21,8 @@
 
 Feel free to add your own templates via [pull request](https://github.com/markdown-templates/markdown-snippets/pulls) :+1: <3
 
+> Press the arrows below to expand the preview section
+
 ----
 
 <details> <summary>01.00-header/</summary>
@@ -98,32 +100,9 @@ Feel free to add your own templates via [pull request](https://github.com/markdo
 
 
 
-</details><details> <summary>xtras-01-inline-html/</summary>
+</details><details> <summary>03.00-emojis/</summary>
 
-### [xtras-01-inline-html/keyboard.md](xtras-01-inline-html/keyboard.md)
-<kbd>Strg+X</kbd>  
-<kbd>Strg</kbd> + <kbd>X</kbd>  
-<kbd>Or any other text</kbd>
-
-
-
-
-### [xtras-01-inline-html/superscript.md](xtras-01-inline-html/superscript.md)
-
-This is a text with <sup>SuperScript</sup>  
-You can use it for footnotes<sup>1</sup>
-
-----
-<sup>[1]: See [footnotes](../02-footer/footnotes)</sup>  
-
-### [xtras-01-inline-html/top-right.md](xtras-01-inline-html/top-right.md)
-
-<p align="right">01/01/2000</p>
-
-
-</details><details> <summary>xtras-02-emojis/</summary>
-
-### [xtras-02-emojis/emojis.md](xtras-02-emojis/emojis.md)
+### [03.00-emojis/emojis.md](03.00-emojis/emojis.md)
 # People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
@@ -439,5 +418,28 @@ You can use it for footnotes<sup>1</sup>
 <sup>Source: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)</sup>
 
 
+
+
+</details><details> <summary>xtras-01-inline-html/</summary>
+
+### [xtras-01-inline-html/keyboard.md](xtras-01-inline-html/keyboard.md)
+<kbd>Strg+X</kbd>  
+<kbd>Strg</kbd> + <kbd>X</kbd>  
+<kbd>Or any other text</kbd>
+
+
+
+
+### [xtras-01-inline-html/superscript.md](xtras-01-inline-html/superscript.md)
+
+This is a text with <sup>SuperScript</sup>  
+You can use it for footnotes<sup>1</sup>
+
+----
+<sup>[1]: See [footnotes](../02-footer/footnotes)</sup>  
+
+### [xtras-01-inline-html/top-right.md](xtras-01-inline-html/top-right.md)
+
+<p align="right">01/01/2000</p>
 
 
