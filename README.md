@@ -26,11 +26,6 @@ Feel free to add your own templates via [pull request](https://github.com/markdo
 ----
 
 
-# [01.00-header/date-top-right.md](01.00-header/date-top-right.md)
-
-<p align="right">01/01/2000</p>
-
-
 # [01.00-header/navigation-bar-1.md](01.00-header/navigation-bar-1.md)
 
 ----
@@ -107,4 +102,9 @@ You can use it for footnotes<sup>1</sup>
 
 ----
 <sup>[1]: See [footnotes](../02-footer/footnotes)</sup>  
+
+# [xtras-inline-html/top-right.md](xtras-inline-html/top-right.md)
+
+<p align="right">01/01/2000</p>
+
 
