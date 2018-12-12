@@ -19,15 +19,13 @@
 
 ## :two_hearts: Contribute
 
-Feel free to add your own templates via [pull request](https://github.com/markdown-templates/markdown-snippets/pulls) :+1:
+Feel free to add your own templates via [pull request](https://github.com/markdown-templates/markdown-snippets/pulls) :+1: <3
 
 ----
-----
-----
 
+<details> <summary>01.00-header/</summary>
 
-# [01.00-header/navigation-bar-1.md](01.00-header/navigation-bar-1.md)
-
+### [01.00-header/navigation-bar-1.md](01.00-header/navigation-bar-1.md)
 ----
 
 <p align="center">
@@ -45,57 +43,72 @@ Feel free to add your own templates via [pull request](https://github.com/markdo
 ----
 
 
-# [01.01-license-badges/Apache_2.0.md](01.01-license-badges/Apache_2.0.md)
 
+
+
+</details><details> <summary>01.01-license-badges/</summary>
+
+### [01.01-license-badges/Apache_2.0.md](01.01-license-badges/Apache_2.0.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# [01.01-license-badges/Attribution_License_(BY).md](01.01-license-badges/Attribution_License_(BY).md)
+
+
+
+### [01.01-license-badges/Attribution_License_(BY).md](01.01-license-badges/Attribution_License_(BY).md)
 
 [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
 
-# [01.01-license-badges/BSD_2-clause_license.md](01.01-license-badges/BSD_2-clause_license.md)
+### [01.01-license-badges/BSD_2-clause_license.md](01.01-license-badges/BSD_2-clause_license.md)
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
-# [01.01-license-badges/BSD_3-clause_license.md](01.01-license-badges/BSD_3-clause_license.md)
+### [01.01-license-badges/BSD_3-clause_license.md](01.01-license-badges/BSD_3-clause_license.md)
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-# [01.01-license-badges/GNU_GPL_v2.md](01.01-license-badges/GNU_GPL_v2.md)
+### [01.01-license-badges/GNU_GPL_v2.md](01.01-license-badges/GNU_GPL_v2.md)
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-# [01.01-license-badges/GNU_GPL_v3.md](01.01-license-badges/GNU_GPL_v3.md)
+### [01.01-license-badges/GNU_GPL_v3.md](01.01-license-badges/GNU_GPL_v3.md)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-# [01.01-license-badges/MIT.md](01.01-license-badges/MIT.md)
+### [01.01-license-badges/MIT.md](01.01-license-badges/MIT.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# [01.01-license-badges/Mozilla_Public_License_2.0.md](01.01-license-badges/Mozilla_Public_License_2.0.md)
+### [01.01-license-badges/Mozilla_Public_License_2.0.md](01.01-license-badges/Mozilla_Public_License_2.0.md)
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-# [01.01-license-badges/The_Unlicense.md](01.01-license-badges/The_Unlicense.md)
+### [01.01-license-badges/The_Unlicense.md](01.01-license-badges/The_Unlicense.md)
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-# [02.00-footer/footnotes.md](02.00-footer/footnotes.md)
+</details><details> <summary>02.00-footer/</summary>
 
+### [02.00-footer/footnotes.md](02.00-footer/footnotes.md)
 ----
 
 <sup>[1]: Hello World</sup>  
 <sup>[2]: Hello Internet</sup>  
 
 
-# [xtras-01-inline-html/keyboard.md](xtras-01-inline-html/keyboard.md)
 
+
+
+</details><details> <summary>xtras-01-inline-html/</summary>
+
+### [xtras-01-inline-html/keyboard.md](xtras-01-inline-html/keyboard.md)
 <kbd>Strg+X</kbd>  
 <kbd>Strg</kbd> + <kbd>X</kbd>  
 <kbd>Or any other text</kbd>
 
-# [xtras-01-inline-html/superscript.md](xtras-01-inline-html/superscript.md)
+
+
+
+### [xtras-01-inline-html/superscript.md](xtras-01-inline-html/superscript.md)
 
 This is a text with <sup>SuperScript</sup>  
 You can use it for footnotes<sup>1</sup>
@@ -103,13 +116,14 @@ You can use it for footnotes<sup>1</sup>
 ----
 <sup>[1]: See [footnotes](../02-footer/footnotes)</sup>  
 
-# [xtras-01-inline-html/top-right.md](xtras-01-inline-html/top-right.md)
+### [xtras-01-inline-html/top-right.md](xtras-01-inline-html/top-right.md)
 
 <p align="right">01/01/2000</p>
 
 
-# [xtras-02-emojis/emojis.md](xtras-02-emojis/emojis.md)
+</details><details> <summary>xtras-02-emojis/</summary>
 
+### [xtras-02-emojis/emojis.md](xtras-02-emojis/emojis.md)
 # People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
@@ -423,4 +437,7 @@ You can use it for footnotes<sup>1</sup>
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
 
 <sup>Source: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908)</sup>
+
+
+
 
