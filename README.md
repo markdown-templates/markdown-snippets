@@ -1,8 +1,13 @@
-# Markdown snippets
+# :clipboard: Markdown snippets
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![Issues](https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/issues)
+[![Forks](https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/network/members)
+[![Stars](https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/stargazers)
 
 > Markdown snippets for your documentation files.
 
-## :clipboard: Usage
+## :zap: Usage
 
 1. Go to the snippet that you want to use and click `Raw`  
 
