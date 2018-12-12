@@ -18,19 +18,12 @@
 ----
 
 
-# [footer/footnotes.md](footer/footnotes.md)
-
-----
-<sup>[1]: Hello World</sup>  
-<sup>[2]: Hello Internet</sup>  
-
-
-# [header/date-top-right.md](header/date-top-right.md)
+# [01-header/date-top-right.md](01-header/date-top-right.md)
 
 <p align="right">01/01/2000</p>
 
 
-# [header/navigation-bar-1.md](header/navigation-bar-1.md)
+# [01-header/navigation-bar-1.md](01-header/navigation-bar-1.md)
 
 ----
 
@@ -47,5 +40,12 @@
 </p>
 
 ----
+
+
+# [02-footer/footnotes.md](02-footer/footnotes.md)
+
+----
+<sup>[1]: Hello World</sup>  
+<sup>[2]: Hello Internet</sup>  
 
 
