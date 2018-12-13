@@ -40,7 +40,7 @@
 
 <p align="center">We will take care about the documentation! :wrench:</p>
 
-<sup align="center"> Press the arrows below to expand the preview section </sup>
+<blockquote align="center"> Press the arrows below to expand the preview section </blockquote>
 
 
 ----
