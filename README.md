@@ -1,4 +1,4 @@
-# :clipboard: Markdown snippets
+<h1 align="center"> :clipboard: Markdown snippets </h1>
 
 <p align="center">
 
@@ -20,7 +20,8 @@
 
 </p>
 
-> Markdown snippets for your documentation files.
+
+<blockquote align="center"> Markdown snippets for your documentation files. </blockquote>
 
 ## :zap: Usage
 
