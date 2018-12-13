@@ -35,7 +35,7 @@
 
 <h2 align="center"> :two_hearts: Contribute </h2>
 
-<p align="center">Feel free to add your own templates via [pull request](https://github.com/markdown-templates/markdown-snippets/pulls) :+1:
+<p align="center">Feel free to add your own templates via <a href="https://github.com/markdown-templates/markdown-snippets/pulls"> pull request</a> :+1:
 </p>
 
 <p align="center">We will care about the documentation! :wrench:</p>
