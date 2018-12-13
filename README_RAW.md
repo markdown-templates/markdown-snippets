@@ -23,19 +23,21 @@
 
 <blockquote align="center"> Markdown snippets for your documentation files. </blockquote>
 
-## :zap: Usage
+<h2 align="center"> :zap: Usage </h2>
 
-1. Go to the snippet that you want to use and click `Raw`
+<p align="center"> 1. Go to the snippet that you want to use and click <code>Raw</code>
 
 ![Raw button](https://i.imgur.com/QkHqujv.png)
 
-1. Copy the code <kbd>Strg</kbd>+<kbd>C</kbd>
-2. Paste the code in your markdown file <kbd>Strg</kbd>+<kbd>V</kbd>
-3. _Done!_
+<p align="center"> 2. Copy the code <kbd>Strg</kbd>+<kbd>C</kbd>
+<p align="center"> 3. Paste the code in your markdown file <kbd>Strg</kbd>+<kbd>V</kbd>
+<p align="center"> 4. Done!
 
-## :two_hearts: Contribute
+<h2 align="center"> :two_hearts: Contribute </h2>
 
-Feel free to add your own templates via [pull request](https://github.com/markdown-templates/markdown-snippets/pulls) :+1:  
-We will care about the documentation! :wrench:
+<p align="center">Feel free to add your own templates via [pull request](https://github.com/markdown-templates/markdown-snippets/pulls) :+1:
+</p>
 
-> Press the arrows below to expand the preview section
+<p align="center">We will care about the documentation! :wrench:</p>
+
+<blockquote align="center"> Press the arrows below to expand the preview section </blockquote>
