@@ -1,8 +1,8 @@
 # :clipboard: Markdown snippets
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[![Issues](https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/issues)
-[![Forks](https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/fork)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![Issues](https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/issues)
+[![Forks](https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/fork)
 [![Stars](https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg)](https://github.com/markdown-templates/markdown-snippets/stargazers)
 
 > Markdown snippets for your documentation files.
