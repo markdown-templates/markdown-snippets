@@ -26,8 +26,8 @@
 <h2 align="center"> :zap: Usage </h2>
 
 <p align="center"> 1. Go to the snippet that you want to use and click <code>Raw</code>
-
-![Raw button](https://i.imgur.com/QkHqujv.png)
+<br>
+<img src="https://i.imgur.com/QkHqujv.png" alt="Raw Button">
 
 <p align="center"> 2. Copy the code <kbd>Strg</kbd>+<kbd>C</kbd>
 <p align="center"> 3. Paste the code in your markdown file <kbd>Strg</kbd>+<kbd>V</kbd>
