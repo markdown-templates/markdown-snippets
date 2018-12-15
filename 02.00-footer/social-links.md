@@ -1,5 +1,4 @@
-
-----
+---
 
 > [MyWebsite](https://www.example.com) &nbsp;&middot;&nbsp;
 > GitHub [@MyGitHub](https://github.com/MyGitHub) &nbsp;&middot;&nbsp;

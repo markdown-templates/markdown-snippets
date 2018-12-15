@@ -20,7 +20,6 @@
 
 </p>
 
-
 <blockquote align="center"> Markdown snippets for your documentation files. </blockquote>
 
 <h2 align="center"> :zap: Usage </h2>
