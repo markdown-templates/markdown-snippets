@@ -47,7 +47,8 @@
 <details> <summary>01.00-header/</summary>
 
 ### [01.00-header/navigation-bar-1.md](01.00-header/navigation-bar-1.md)
----
+----
+
 <p align="center">
 <strong><a href="#link1">Link 1</a></strong>
 |
@@ -59,7 +60,8 @@
 |
 <strong><a href="#link5">Link 5</a></strong>
 </p>
----
+
+----
 
 
 
