@@ -20,7 +20,7 @@
 
 </p>
 
-<blockquote align="center"> Markdown snippets for your documentation files. </blockquote>
+<p align="center"> Markdown snippets for your documentation files. </p>
 
 <h2 align="center"> :zap: Usage </h2>
 
@@ -34,12 +34,11 @@
 
 <h2 align="center"> :two_hearts: Contribute </h2>
 
-<p align="center">Feel free to add your own templates via <a href="https://github.com/markdown-templates/markdown-snippets/pulls"> pull request</a> :+1:
-</p>
+<p align="center">Feel free to add your own templates via <a href="https://github.com/markdown-templates/markdown-snippets/pulls"> pull request</a> :+1:</p>
 
 <p align="center">We will take care about the documentation! :wrench:</p>
 
-<blockquote align="center"> Press the arrows below to expand the preview section </blockquote>
+<p align="center"> Press the arrows below to expand the preview section </p>
 
 
 ----
