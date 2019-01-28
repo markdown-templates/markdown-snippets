@@ -20,7 +20,7 @@
 
 </p>
 
-<blockquote align="center"> Markdown snippets for your documentation files. </blockquote>
+<p align="center"> Markdown snippets for your documentation files. </p>
 
 <h2 align="center"> :zap: Usage </h2>
 
@@ -39,4 +39,4 @@
 
 <p align="center">We will take care about the documentation! :wrench:</p>
 
-<blockquote align="center"> Press the arrows below to expand the preview section </blockquote>
+<p align="center"> Press the arrows below to expand the preview section </p>
