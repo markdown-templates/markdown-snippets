@@ -493,5 +493,5 @@ You can use it for footnotes<sup>1</sup>
 ### [xtras-01-inline-html/top-right.md](xtras-01-inline-html/top-right.md)
 
 <p align="right">01/01/2000</p>
-
+Text on the top right corner
 
